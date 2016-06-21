@@ -1,0 +1,16 @@
+Changelog
+
+Version 3.0
+===========
+1. Refactored Caltech Scrapper. Fixed cleanup code.
+2. Created new Get Dilbert elements.
+
+Version 2.0
+===========
+1. Implemented sh to get text from malformed HTML.
+
+Version 1.0
+===========
+1. Implemented Get Dilbert.
+2. Implemented Daily Dilbert Twitter.
+3. Implemented Caltech Scrapper.
