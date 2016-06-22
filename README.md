@@ -10,7 +10,7 @@ Say hi on [Twitter](https://twitter.com/kaczmarekart) and check out [my Blog](ht
 - [Contact](#contact)
 
 
-# Automation Scripts
+# Automation 
 This repository contains various small scripts that I have written to automate my day-to-day activities. Some of these were written as part of some other project but can be easily re-used with minor modifications and hence have been added here.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
