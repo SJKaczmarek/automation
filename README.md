@@ -1,7 +1,7 @@
 # Hi! 
 ![Sylvester Kaczmarek](https://sylvesterkaczmarek.com/wp-content/uploads/2016/05/sylwester_kaczmarek_200x211_circle.png)
 
-Check out [my Blog https://sylvesterkaczmarek.com/blog/](https://sylvesterkaczmarek.com/blog/)
+Check out [my Blog](https://sylvesterkaczmarek.com/blog/)
 Follow [my Twitter account](https://twitter.com/kaczmarekart) for updates.
 
 # Automation Scripts
