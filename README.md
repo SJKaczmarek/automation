@@ -4,7 +4,7 @@
 Say hi on [Twitter](https://twitter.com/kaczmarekart) and check out [my Blog](https://sylvesterkaczmarek.com/blog/) for updates.
 
 # Table of Contents
-- [Automation Scripts](#automation)
+- [Automation Scripts](#automation scripts)
 - [Support](#support)
 - [License](#license)
 - [Contact](#contact)
