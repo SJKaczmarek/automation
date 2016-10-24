@@ -1,5 +1,9 @@
 Changelog
 
+Version 4.0
+===========
+1. Created VC Sourcing code.
+
 Version 3.0
 ===========
 1. Refactored Caltech Scrapper. Fixed cleanup code.
