@@ -1,7 +1,7 @@
 # Hi Development Manifesto!
-![Sylvester Kaczmarek](https://sylvesterkaczmarek.com/wp-content/uploads/2016/05/sylwester_kaczmarek_200x211_circle.png)
+![Sylvester Kaczmarek](https://SylvesterKaczmarek.com/wp-content/uploads/2016/05/sylwester_kaczmarek_200x211_circle.png)
 
-Say hi on [Twitter](https://twitter.com/kaczmarekart) and check out [my Blog](https://sylvesterkaczmarek.com/blog/) for updates.
+Say hi on [Twitter](https://twitter.com/SJKaczmarek) and check out [my Blog](https://SylvesterKaczmarek.com/blog/) for updates.
 
 # Table of Contents
 - [Automation Scripts](#automation)
@@ -25,5 +25,5 @@ I am willing to make exceptions to the licensing rule on a case-by-case basis. P
 
 
 # Contact 
-For any changes, please fork the repository and send a pull request. For anything else, please contact me on my mail id: Sylvester Kaczmarek @gmail.com or https://sylvesterkaczmarek.com/
+For any changes, please fork the repository and send a pull request. For anything else, please contact me on my mail id: assistant (at) SylvesterKaczmarek.com or https://SylvesterKaczmarek.com/
 
