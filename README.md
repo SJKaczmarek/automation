@@ -20,7 +20,7 @@ Please submit an issue on GitHub and provide information about your setup.
 
 
 # License
-Copyright (c) 2015-2016 Sylvester Kaczmarek. These scripts are protected under the [Apache license](LICENSE). These scripts are free for personal use. You may modify them as you want as long as the modification is valid under the Apache license.
+Copyright (c) 2015-2018 Sylvester Kaczmarek. These scripts are protected under the [Apache license](LICENSE). These scripts are free for personal use. You may modify them as you want as long as the modification is valid under the Apache license.
 I am willing to make exceptions to the licensing rule on a case-by-case basis. Please email me for such requests.
 
 
